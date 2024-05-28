@@ -8,7 +8,7 @@ Descriptografar uma mensagem criptografada usando a Cifra de César.
 Verificar se uma mensagem é criptografada usando a Cifra de César.
 ## Requisitos
 Python 3.10
-Como usar
+## Como usar
 Clone o repositório para o seu ambiente local.
 Execute o arquivo principal cifraCesar.py para iniciar o programa.
 Siga as instruções no terminal para criptografar ou descriptografar mensagens.
